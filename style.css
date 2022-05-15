@@ -14,10 +14,6 @@ body{
   min-height: 100vh;
   background: #1f2745;
 }
-::selection{
-  color: #fff;
-  background: #1f2745;
-}
 .container{
   max-width: 500px;
   background: #fff;
